@@ -1,4 +1,4 @@
-# sample-based-music-looper
+# Sample-Based Music Looper
 
 This system, created in and for Unity 2022, is a script that will loop a song using sample values embedded within the metadata of the audio file. Currently, it only works for Vorbis .ogg files but may be expanded to include other file types in the future such as WAV. 
 
