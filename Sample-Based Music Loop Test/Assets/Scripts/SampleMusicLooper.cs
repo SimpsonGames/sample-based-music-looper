@@ -22,7 +22,7 @@ public class SampleMusicLooper : MonoBehaviour
     private const string PROJECT_PATH = ".\\Assets";
     //The path that the looping file is saved
     //Filename added in Start() method
-    private const string LOOPABLE_SONG_PATH = "\\Audio\\With Loop Points\\";
+    private const string LOOPABLE_SONG_PATH = "\\"; //Place directory to audio folder here!
 
     private void Awake()
     {
